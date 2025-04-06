@@ -59,4 +59,6 @@ func main() {
 
 		return c.SendStatus(200)
 	})
+
+	app.Listen(":3000")
 }
