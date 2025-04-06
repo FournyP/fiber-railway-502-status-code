@@ -1,4 +1,4 @@
-module github.com/6022protocol/fiber-railway-502-status-code
+module github.com/FournyP/fiber-railway-502-status-code
 
 go 1.24.0
 
